@@ -1,0 +1,75 @@
+form.usual {
+    display: block;
+
+    margin: 40px auto;
+    width: 500px;
+
+    text-align: left;
+    padding: 5px;
+    border: 1px solid #DDDDDD;
+
+
+}
+
+label {
+    display: inline-block;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+
+}
+
+input[type="text"] {
+    margin-bottom: 10px;
+    margin-left: 100px;
+    width: 300px;
+    height: 20px;
+    padding: 5px;
+    padding-left: 5px;
+    border-radius: 3px;
+    border: 1px solid #CCCCCC;
+}
+
+input[type="password"] {
+    margin-bottom: 10px;
+    margin-left: 100px;
+    width: 300px;
+    height: 20px;
+    padding: 5px;
+    padding-left: 5px;
+    border-radius: 3px;
+    border: 1px solid #CCCCCC;
+}
+
+ input[type="submit"]  {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 210px;
+    background-color: #FFFFFF;
+    border: 1px solid #AAAAAA;
+    padding: 5px 30px;
+    border-radius: 3px;
+    width: auto;
+}
+
+input[type="submit"]:hover {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 210px;
+    background-color: #FFFFFF;
+    border: 1px solid #AAAAAA;
+    padding: 5px 30px;
+    border-radius: 3px;
+    width: auto;
+}
+
+#red{
+    color: red;
+}
+
+.errors {
+    margin: 50px 100px;
+
+}

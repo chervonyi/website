@@ -1,0 +1,27 @@
+.welcome {
+    border: 1px solid #DDDDDD;
+    margin: 50px auto;
+    padding: 0px;
+    padding-top: 30px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+
+.welcome p {
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
+.nav a {
+    display: block;
+    width: auto;
+    height: 30px;
+    background-color: #CCCCCC;
+    text-decoration: none;
+    color: white;
+    padding: 25px;
+    margin: 30px 0px;
+    background-color: #507299;
+}

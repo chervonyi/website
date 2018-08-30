@@ -1,0 +1,23 @@
+* {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 15px;
+}
+
+
+label {
+    font-weight: lighter;
+}
+
+
+
+.nav a {
+    font-size: 20px;
+}
+
+.message {
+    font-size: 17px;
+}
+
+.closebtn {
+    font-family: 'Times New Roman';
+}

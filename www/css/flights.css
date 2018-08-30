@@ -1,0 +1,57 @@
+
+
+h4 {
+    font-size: 25px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.flight {
+    margin: 20px auto;
+    width: 40%;
+    height: 105px;
+    background-color: #305075;
+    padding: 20px;
+    color: white;
+}
+
+
+table {
+    padding: 2px;
+    color: white;
+}
+
+.footer {
+    border-top: 1px solid white;
+}
+
+#price {
+    text-align: right;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: red;
+    border-top: 1px solid rgba(255, 255, 255, .5);
+
+}
+
+#price a {
+    text-decoration: none;
+}
+
+#price button{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 5px 20px;
+
+    cursor: pointer;
+    display: inline;
+}
+
+
+#price #text {
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+    display: inline;
+}

@@ -1,0 +1,24 @@
+.payment-block {
+    display: block;
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+.payment-block p {
+    text-align: center;
+    font-size: 16px;
+}
+
+.payment-block form {
+    margin-top: 20px;
+}
+
+
+.payment-block input[type='text'] {
+    margin: 0;
+    margin-left: 10px;
+}
